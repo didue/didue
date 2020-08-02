@@ -2,7 +2,7 @@
 
 hi there!:heart:
 
-### Web Programing Developer
+### Web Programing Junior Developer
 <ul>
   <li>Java</li>
   <li>JavaScript</li>
