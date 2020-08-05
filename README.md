@@ -1,5 +1,3 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FMelissa526)](https://hits.seeyoufarm.com)
-
 <h2>Hi, there! :heart:</h2>
 <h3 align="center">A passionate Junior Web-Developer from Repulic of Korea</h3>
 
