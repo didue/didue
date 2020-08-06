@@ -17,7 +17,3 @@
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissa526&layout=compact&hide=html" alt="melissa526" />
 </p>
-
-<h3 align="left">Interests</h3>
-
-  
