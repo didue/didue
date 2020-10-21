@@ -2,7 +2,7 @@
 <h2>Hi, there! :heart:</h2>
 <h3 align="center">A passionate Junior Web-Developer from Repulic of Korea</h3>
 
-- 🔭 I’m currently working on [vtw - 공공자원개방공유관리시스템 구축](https://eshare.go.kr)
+- 🔭 I’m currently working on [vtw]()
 
 - 📝 I regulary write articles on [https://fascinate-zsoo.tistory.com/](https://fascinate-zsoo.tistory.com/)
 
