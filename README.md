@@ -1,19 +1,36 @@
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=melissa526" alt="melissa526" /> </p>
-<h2>Hi, there! :heart:</h2>
-<h3 align="center">A passionate Junior Web-Developer from Repulic of Korea</h3>
+![header](https://capsule-render.vercel.app/api?type=wave&height=200&color=f1e1a6&text=didue)
 
-- 🔭 I’m currently working on [vtw]()
-
-- 📝 I regulary write articles on [https://fascinate-zsoo.tistory.com/](https://fascinate-zsoo.tistory.com/)
-
-- 📫 How to reach me **jisoo.han107@gmail.com**
-
-<br/><p></p>
-<h3>Skills</h3>
-<p align="left"> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/go/go-original.svg" alt="go" width="40" height="40"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </p>
-<p align="left"> <img src="https://devicons.github.io/devicon/devicon.git/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </p>
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>   <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </p>
-
+<h2 align="center">:yellow_heart: Hi, there! :yellow_heart:</h2>
+<p align="center">I'm JiSOO HAN, a Junior Developer</p>
+<br/>
+<h3 align="center">:books:Tech Stacks:books:</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/JAVA-81bf6b"/>
+<img src="https://img.shields.io/badge/Javascript-fbe946"/>
+<img src="https://img.shields.io/badge/Nodejs-fbe946"/>
+<img src="https://img.shields.io/badge/PostgresQL-3d80bb"/>
+<img src="https://img.shields.io/badge/MariaDB-3d80bb"/> <br/>
+<img src="https://img.shields.io/badge/Spring-81bf6b"/>
+<img src="https://img.shields.io/badge/SpringBoot-81bf6b"/>
+<img src="https://img.shields.io/badge/TypeScript-fbe946"/>
+<img src="https://img.shields.io/badge/React-fbe946"/>
+<img src="https://img.shields.io/badge/Oracle-3d80bb"/> <br/>
+<img src="https://img.shields.io/badge/HTML-e88753"/>
+<img src="https://img.shields.io/badge/CSS-e88753"/>
+<img src="https://img.shields.io/badge/Git-585858"/>
+<img src="https://img.shields.io/badge/SVN-585858"/>
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissa526&layout=compact&hide=html" alt="melissa526" />
+</p>
+<br/><br/>
+<img src="https://img.shields.io/badge/AWS-3b95c9"/>
+<img src="https://img.shields.io/badge/Go-3b95c9"/>
+<br/>
+<img src="https://img.shields.io/badge/Tistory-81bf6b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Instagram-81bf6b?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gmail-81bf6b?style=for-the-badge"/>
+
+
+
+  
 </p>
