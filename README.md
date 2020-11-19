@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&height=200&color=f1e1a6&text=didue)
 
-<h2 align="center">:yellow_heart: Hi, there! :yellow_heart:</h2>
+<h3 align="center">:yellow_heart: Hi, there! :yellow_heart:</h3>
 <p align="center">I'm JiSOO HAN, a Junior Developer</p>
-<br/>
 <h3 align="center">:books:Tech Stacks:books:</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/JAVA-81bf6b"/>
