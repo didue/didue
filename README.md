@@ -18,9 +18,11 @@
   <img src="https://img.shields.io/badge/CSS-e88753"/>
   <img src="https://img.shields.io/badge/Git-585858"/>
   <img src="https://img.shields.io/badge/SVN-585858"/> <br/>
-  <br/><br/>
-  <img src="https://img.shields.io/badge/AWS-3b95c9"/>
-  <img src="https://img.shields.io/badge/Go-3b95c9"/>
+</p>
+<h5 align="center">Recently, I'm interested in</h5><br/>
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-2ac0fb"/>
+  <img src="https://img.shields.io/badge/Go-2ac0fb"/>
 </p>
 <p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissa526&layout=compact&hide=html" alt="melissa526" />
