@@ -24,9 +24,6 @@
   <img src="https://img.shields.io/badge/AWS-2ac0fb"/>
   <img src="https://img.shields.io/badge/Go-2ac0fb"/>
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=melissa526&layout=compact&hide=html" alt="melissa526" />
-</p>
 <br/>
 <p align="center">
   <img src="https://img.shields.io/badge/Tistory-52b08d?style=for-the-badge&logo=Tidal&logoColor=white&link=https://fascinate-zsoo.tistory.com/"/>
