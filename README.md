@@ -25,11 +25,4 @@
   <img src="https://img.shields.io/badge/Go-2ac0fb"/>
 </p>
 <br/>
-<p align="center">
-  <img src="https://img.shields.io/badge/Tistory-52b08d?style=for-the-badge&logo=Tidal&logoColor=white&link=https://fascinate-zsoo.tistory.com/"/>
-  <img src="https://img.shields.io/badge/Instagram-d34e62?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/d_diue"/>
-  <img src="https://img.shields.io/badge/Gmail-c2523f?style=for-the-badge&logo=Gmail&logoColor=white&link=jisoo.han107@gmail.com"/>
-</p>
-
-  
 </p>
