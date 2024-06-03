@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Nextjs-E0234E?style=flat-square&logo=Nextjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nextjs-000000?style=flat-square&logo=Next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Javascript-fbe946?style=flat-square&logo=Javascript&logoColor=black"/></a>
   <br/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/PL/SQL-40B5A4?style=flat-square&logo=PLSQL&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/SVN-26689A?style=flat-square"/>
   <br/>
