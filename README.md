@@ -12,29 +12,31 @@
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>
   <br/>
-  <img src="https://img.shields.io/badge/Javascript-fbe946?style=flat-square&logo=Javascript&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/TypeScript-1572B6?style=flat-square&logo=TypeScript&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Nextjs-E0234E?style=flat-square&logo=Nextjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Javascript-fbe946?style=flat-square&logo=Javascript&logoColor=black"/></a>
   <br/>
   <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/PL/SQL-40B5A4?style=flat-square&logo=PLSQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
   <br/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white"></a>
-  <img src="https://img.shields.io/badge/Git-181717?style=flat-square&logo=Git&logoColor=white"></a>
+  <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/SVN-26689A?style=flat-square"/>
   <br/>
   
 </p>
 <br/>
 <h4 align="center">🕹 Recently, Studying with interest</h4><br/>
-<p align="center"> 
-  <img src="https://img.shields.io/badge/VueJS-4FC08D?style=flat-square&logo=Vue.js&logoColor=black"/></a>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>
-  <br/>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/AmazonAWS-FF9900?style=flat-square&logo=AmazonAWS&logoColor=black"/></a>
+<p align="center">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/GO-00ADD8?style=flat-square&logo=GO&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/VueJS-4FC08D?style=flat-square&logo=Vue.js&logoColor=black"/></a>
+  <br/>
 </p>
 </p>
