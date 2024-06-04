@@ -23,6 +23,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/PL/SQL-40B5A4?style=flat-square&logo=PLSQL&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mongo DB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a>
   <br/>
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
@@ -33,10 +34,12 @@
 <br/>
 <h4 align="center">🕹 Recently, Studying with interest</h4><br/>
 <p align="center">
+  <img src="https://img.shields.io/badge/Apache Kafka-764ABC?style=flat-square&logo=apachekafka&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/GO-00ADD8?style=flat-square&logo=GO&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <br/>
   <img src="https://img.shields.io/badge/VueJS-4FC08D?style=flat-square&logo=Vue.js&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
   <br/>
 </p>
 </p>
