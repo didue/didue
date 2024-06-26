@@ -28,8 +28,8 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white" />
   <img src="https://img.shields.io/badge/SVN-26689A?style=flat-square"/>
-  <br/>
-  
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=didue"/>
 </p>
 <br/>
 <h4 align="center">🕹 Recently, Studying with interest</h4><br/>
@@ -42,5 +42,4 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
   <br/>
-</p>
 </p>
