@@ -36,9 +36,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Apache Kafka-764ABC?style=flat-square&logo=apachekafka&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/OpenAI-000000?style=flat-square&logo=OpenAI&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/VueJS-4FC08D?style=flat-square&logo=Vue.js&logoColor=black"/></a>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
   <br/>
 </p>
